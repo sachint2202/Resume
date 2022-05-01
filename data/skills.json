@@ -1,0 +1,27 @@
+[
+  {
+      "grouping":"Front end Technologies",
+      "skills":[ "Angular","JavaScript","Kendo UI tools","JQuery","Github"]
+  },{
+      "grouping":"REStful APIs",
+      "skills":[ ".NET Core"]
+  },
+  {
+      "grouping":"Cloud Platform",
+      "skills":[ "Azure"]
+  },
+  {
+    "grouping":"Programming Languages",
+    "skills":[ "C/C++", "Python"]
+},
+{
+  "grouping":"Microsoft Tools",
+  "skills":[ "Power Apps", "Power Automate", "Office 365 tools"]
+},
+  {
+      "grouping":"Database",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"}
+      ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "role":"Software Engineer",
+        "company":"Optum (United Health Group)",
+        "summary":[
+        "Currently working as Software Engineer in Payer Analytics with the Product Engineering team at Optum.",
+        "Have worked on SQL Server database with Angular/JavaScript for front-end development and .NET core for the API.",
+        "Worked in team with Agile and full stack development methodologies with development tasks including front-end development and database designing Undergone AZ- 104 and AZ - 204 training for Azure.  Azure -900 certification holder.",
+        "Involved in developing end to end projects with experience on software development life-cycle of 5 projects including $1.2 million savings statement of work tracker  application."
+        ],
+        "range":"August 2020 - Present"
+    },
+    {
+        "role":"Software Engineer Intern",
+        "company":"Optum (United Health Group)",
+        "summary":
+        [
+            "POCs on API development to fetch data from databases and perform CRUD operations. Implemented with Python Flask framework and SQLite database feature. Second implementation was with .NET Core following MVC pattern and EF Core for data storage and retrieval."
+        ],
+        "range":"June 2019 - July 2019"
+    }
+]

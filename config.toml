@@ -1,0 +1,29 @@
+baseURL = 'https://sachintiwari.netlify.app'
+languageCode = 'en-us'
+title = 'Sachin Tiwari'
+[params]
+showSkills = true
+showProjects = true
+showOpenSource = false
+showPublications = false
+showExperience = true
+showBlog = false
+showEducation = true
+showAwards = true
+firstName = "Sachin"
+lastName = "Tiwari"
+profileImage = "/img/profilepic.png"
+address = 'Varanasi, Uttar Pradesh, India'
+email = 'stiwar71@outlook.com'
+[[params.handles]]
+link = "https://www.linkedin.com/in/sachin-tiwari-227642150"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/sachint2202"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+
